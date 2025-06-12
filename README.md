@@ -1,3 +1,7 @@
+#Здесь представлены лабораторные работы по проектной деятельности студентки группы 41ПИфм, Шохиной Евгении
+
+|Методичка|
+
 |№| Задание | Лабораторные |
 |-|--------|--------------|
 |3| [Функции](https://github.com/jiangui-x-x/ne-xoxo/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20maple/Laboratornaya_rabota_3_Proekt_deyatelnost_1_kurs%20(1).pdf) |[3](https://github.com/jiangui-x-x/ne-xoxo/blob/main/maple/3.mw)| 
