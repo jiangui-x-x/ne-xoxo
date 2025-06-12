@@ -1,6 +1,6 @@
 | Задания | Лабораторные |
 |---------|--------------|
-||[3]https://github.com/jiangui-x-x/ne-xoxo/blob/main/maple/3.mw|
+||3|
 |||
 |||
 |||
