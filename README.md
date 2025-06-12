@@ -2,7 +2,7 @@
 
 
 
-***|[Методичка](https://github.com/jiangui-x-x/ne-xoxo/blob/main/metodichka_Maple.pdf)|***
+***[Методичка](https://github.com/jiangui-x-x/ne-xoxo/blob/main/metodichka_Maple.pdf)***
 
 |№| Задание | Лабораторные |
 |-|--------|--------------|
